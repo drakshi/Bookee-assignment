@@ -3,6 +3,8 @@
 
 The Shift Booking App is a web application that allows users to view and manage shifts. Users can book available shifts, cancel their booked shifts, and view their own shifts. The app provides a user-friendly interface for easy interaction with shift-related actions.
 
+### Deployed - https://bookee-assignment.vercel.app/
+
 ## Features
 
 - View available shifts and book them
