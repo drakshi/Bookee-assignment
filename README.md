@@ -1,4 +1,3 @@
-# Shift booking app
 
 # Shift Booking App
 
@@ -12,6 +11,13 @@ The Shift Booking App is a web application that allows users to view and manage 
 - Disable booking for overlapping shifts
 - Disable canceling shifts that have already started
 - Responsive design for various screen sizes
+
+## Practices
+
+- Made use of core components where props can be passed and customized
+- Made use of axios for posting and fetching
+- Used contsants more than raw strings
+- Used utils.js file for all the important functions or methods that can be used at various places in the code.
 
 ## Frontend Tech Stack
 
