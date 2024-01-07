@@ -1,6 +1,41 @@
-# Getting Started with Create React App
+# Shift booking app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Shift Booking App
+
+The Shift Booking App is a web application that allows users to view and manage shifts. Users can book available shifts, cancel their booked shifts, and view their own shifts. The app provides a user-friendly interface for easy interaction with shift-related actions.
+
+## Features
+
+- View available shifts and book them
+- View booked shifts and cancel them
+- Organize shifts by area and date
+- Disable booking for overlapping shifts
+- Disable canceling shifts that have already started
+- Responsive design for various screen sizes
+
+## Frontend Tech Stack
+
+- **Frontend:**
+  - React.js: JavaScript library for building user interfaces
+  - Axios: Promise-based HTTP client for making API requests
+  - Tailwind CSS: Utility-first CSS framework for styling
+
+## ScreenShots
+
+### booking state and api call
+
+<img width="1440" alt="Screenshot 2024-01-07 at 6 26 46 PM" src="https://github.com/drakshi/Bookee-assignment/assets/62384655/b6f01fdb-fcb4-4752-8073-2548adccb014">
+
+
+### available shifts
+<img width="1440" alt="Screenshot 2024-01-07 at 6 28 53 PM" src="https://github.com/drakshi/Bookee-assignment/assets/62384655/748bbbc3-6031-49f8-82f6-4af5c9609e0f">
+
+### My Shifts
+<img width="1440" alt="Screenshot 2024-01-07 at 6 29 54 PM" src="https://github.com/drakshi/Bookee-assignment/assets/62384655/0f6d22b7-2f38-4b3c-b034-223837c15508">
+
+### disabled states 
+
+<img width="680" alt="Screenshot 2024-01-07 at 6 31 04 PM" src="https://github.com/drakshi/Bookee-assignment/assets/62384655/ad30568a-cd0c-41d2-9f18-c9e5077b0136">
 
 ## Available Scripts
 
